@@ -16,7 +16,7 @@ E.g.
 
 ##2. Initialize by including jquery-meta-validation.js
 ```
-<script type="text/javascript" src="/js/admin/jquery-meta-validation.js"></script>
+<script type="text/javascript" src="js/jquery-meta-validation.js"></script>
 ```
 
 # Notes
